@@ -21,8 +21,7 @@ You don't change any of these. You add `hello-app.yaml` and fill in the sections
 ---
 
 ## 1. My image
-
-suvarnarhea/hello-app:v1
+DockerHub image I deployed: `suvarnarhea/hello-app:v1`
 
 ```
 suvarnarhea/hello-app:v1
@@ -54,7 +53,7 @@ hello-app-2dv7n   IPv4          80      10.244.1.6,10.244.2.7,10.244.1.7 + 1 mor
 
 ## 4. Browser
 
-Add `screenshot.png`: the page at `http://localhost:8080` with at least two Pods in the "Answers so far" table.
+Add `screenshot.png`: the page at `http://localhost:8080` with at least two Pods in the "Answers so far" table. : `kubernetes-devops-lab/screenshot.png`
 
 ## 5. The four traps
 
